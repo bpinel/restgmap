@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10129/incubator/SpringApplication/src/main/resources
+END
+database.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10129/incubator/SpringApplication/src/main/resources/database.properties
+END
+ValidationMessages_en_US.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9437/incubator/SpringApplication/src/main/resources/ValidationMessages_en_US.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9437/incubator/SpringApplication/src/main/resources/log4j.properties
+END
+fooMessages_en_US.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9453/incubator/SpringApplication/src/main/resources/fooMessages_en_US.properties
+END
+ValidationMessages_fi_FI.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9437/incubator/SpringApplication/src/main/resources/ValidationMessages_fi_FI.properties
+END
+fooMessages_fi_FI.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9453/incubator/SpringApplication/src/main/resources/fooMessages_fi_FI.properties
+END
